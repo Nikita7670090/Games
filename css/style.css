@@ -1,3 +1,7 @@
-body{ background-color: "#C4D8F6" 
+body{ background-color: "#C4D8F6"
 
+}
+
+.carousel a:hover {
+ background: rgba(255, 255, 255, 0.2);
 }
